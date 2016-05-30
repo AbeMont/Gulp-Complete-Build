@@ -1,0 +1,14 @@
+{
+  "name": "gulp-v3",
+  "description": "Third version",
+  "main": "index.js",
+  "authors": [
+    "Abe"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AbeMont/Gulp",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4"
+  }
+}
